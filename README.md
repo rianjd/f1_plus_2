@@ -1,33 +1,33 @@
 # 🏎️ Formula 1 Predictions App
 
-Aplicação web simples criada para **diversão entre amigos**, onde cada participante faz seus **palpites das corridas de Fórmula 1** ao longo da temporada.  
-Os pontos são somados automaticamente e, ao final do ano, **vence quem acumular mais pontos**.
+A simple web application created for **fun among friends**, where each participant submits their **Formula 1 race predictions** throughout the season.  
+Points are automatically calculated, and at the end of the year, **the participant with the highest score wins**.
 
-Projeto desenvolvido como um **side project**, com foco em simplicidade, praticidade e zero custo de infraestrutura.
-
----
-
-## 🎯 Objetivo do Projeto
-
-- Criar um sistema leve para registrar **palpites da Fórmula 1**
-- Armazenar dados de forma simples utilizando **Google Sheets**
-- Permitir acompanhamento de pontuação ao longo da temporada
-- Servir como projeto recreativo e experimental
+This project was developed as a **side project**, focusing on simplicity, practicality, and zero infrastructure cost.
 
 ---
 
-## 🚀 Funcionalidades
+## 🎯 Project Goal
 
-- Interface web simples e responsiva
-- Registro de palpites por corrida
-- Envio automático dos dados para uma planilha do Google
-- Cálculo de pontos baseado nos resultados das corridas
-- Ranking acumulado da temporada
-- Hospedagem via **GitHub Pages**
+- Build a lightweight system to register **Formula 1 predictions**
+- Store data in a simple way using **Google Sheets**
+- Allow tracking of scores throughout the season
+- Serve as a recreational and experimental project
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## 🚀 Features
+
+- Simple and responsive web interface
+- Race prediction submission
+- Automatic data submission to a Google Spreadsheet
+- Points calculation based on race results
+- Season-long ranking
+- Hosted via **GitHub Pages**
+
+---
+
+## 🛠️ Technologies Used
 
 - **HTML5**
 - **CSS3**
@@ -37,20 +37,23 @@ Projeto desenvolvido como um **side project**, com foco em simplicidade, pratici
 
 ---
 
-## 📊 Como Funciona
+## 📊 How It Works
 
-1. O usuário acessa o app pelo navegador
-2. Insere seus palpites para a corrida
-3. Os dados são enviados automaticamente para uma planilha do Google
-4. A pontuação é atualizada conforme os resultados oficiais
-5. Ao final da temporada, o ranking define o vencedor
+1. The user accesses the app through the browser
+2. Submits their race predictions
+3. The data is automatically saved to a Google Spreadsheet
+4. Scores are updated based on official race results
+5. At the end of the season, the ranking determines the winner
 
 ---
 
 ## 🌐 Demo
 
-🔗 **Acesse o app:**  
+🔗 **Access the app:**  
 👉 https://rianjd.github.io/f1_plus_2
 
-> ⚠️ Projeto criado apenas para fins recreativos, sem vínculo oficial com a Fórmula 1.
+---
 
+## ⚠️ Disclaimer
+
+This project was created **for recreational purposes only** and has **no official affiliation with Formula 1**.
